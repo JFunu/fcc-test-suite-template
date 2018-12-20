@@ -22,3 +22,16 @@
   max-height: 400px;
   margin: auto;
 }
+
+#img-caption {
+    margin-top: 20px
+}
+
+#tribute-info {
+    width: 800px;
+    margin-left: 600px
+}
+
+li{
+    margin: 13px 0;
+}
