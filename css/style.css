@@ -1,0 +1,24 @@
+#main{
+    background-color: lightgrey;
+    margin-top: 20px
+}
+
+#title{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#img-div {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+}
+
+#image {
+  display: block;
+  max-width: 300px;
+  max-height: 400px;
+  margin: auto;
+}
