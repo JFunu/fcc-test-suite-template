@@ -10,28 +10,35 @@
 }
 
 #img-div {
-  width: 500px;
-  height: 500px;
-  text-align: center;
+  background-color: #fff;
+  width: 95%;
+  height: 480px;
   margin: auto;
+  text-align: center;
 }
 
 #image {
   display: block;
-  max-width: 300px;
-  max-height: 400px;
-  margin: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto;
 }
 
 #img-caption {
-    margin-top: 20px
+    padding: 10px
 }
 
 #tribute-info {
     width: 800px;
-    margin-left: 600px
+    margin: auto;
 }
 
 li{
     margin: 13px 0;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: "500";
+  text-align: center;
 }
